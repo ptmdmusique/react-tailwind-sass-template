@@ -1,5 +1,5 @@
 import React from "react";
-import "styles/main.sass";
+import "styles/App.sass";
 import logo from "./logo.svg";
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
-          className="App-link"
+          className="App-link text-gray-200 flex"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
